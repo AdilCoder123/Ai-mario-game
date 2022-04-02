@@ -1,0 +1,55 @@
+.Heading-div
+{
+    width:100%;
+height: 100px;
+   
+   
+}
+.Heading-div h3
+{
+    font-size:50px !important;
+    font-family: 'Oswald', sans-serif;
+    display:inline
+}
+.Heading-div button{
+float:right;
+border:2px solid rgb(0, 0, 0);
+top: 0px;
+height: 50px;
+width: 100px;
+color:black
+}
+
+
+.start
+{
+    font-size: 22px;
+}
+.big-image{
+    height:100px;
+    float:left;
+}
+
+
+#footer{
+    background-color: white;
+    line-height: 2;
+bottom: 0px;
+position: fixed;
+width:100%
+}
+
+.modal-dialog
+{
+    width:90%;
+}
+.modal-img
+{
+    width:30%
+}
+video{
+    background:url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding:19px;
+}
